@@ -13,6 +13,6 @@ reactors:
     parameters:
       data_model_path: "resources/data_model/hello.yml"
     reactors:
-      hello_reactor:
+      message_filter:
         logging_level: INFO
   
